@@ -12,14 +12,14 @@ Game.js File:
 1. The questions were captured in a variable
 2. The timer was set to 30 seconds
 3. The startGame() was created which can: 
-   -Generate questions in a random order from the given list
-   -Recognize correct responses and increment the score accordingly 
+   1.Generate questions in a random order from the given list
+   2.Recognize correct responses and increment the score accordingly 
 
 highscores.js File:
 
 The saveHighScores() was created which can:
 1. Save the top 10 scores to local storage in order
-2. Retrieve the top 10 scores from local storage 
+2. Retrieve the top 10 scores from local storage in order
 
 end.js File:
 
