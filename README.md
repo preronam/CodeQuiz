@@ -12,8 +12,8 @@ Game.js File:
 1. The questions were captured in a variable
 2. The timer was set to 30 seconds
 3. The startGame() was created which can: 
-   1.Generate questions in a random order from the given list
-   2.Recognize correct responses and increment the score accordingly 
+   A. Generate questions in a random order from the given list;
+   B. Recognize correct responses and increment the score accordingly;
 
 highscores.js File:
 
