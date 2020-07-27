@@ -15,12 +15,12 @@ Game.js File:
    A. Generate questions in a random order from the given list;
    B. Recognize correct responses and increment the score accordingly;
 
-highscores.js File:
+Highscores.js File:
 
 The saveHighScores() was created which can:
 1. Save the top 10 scores to local storage in order
 2. Retrieve the top 10 scores from local storage in order
 
-end.js File:
+End.js File:
 
 1. Maps the top 10 scores in order for users to see
