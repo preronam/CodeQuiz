@@ -12,13 +12,13 @@ Game.js File:
 
 A. The questions were captured in a variable
 B. The timer was set to 30 seconds
-C. The startGame() was created which can 
+C. The startGame() was created which can: 
 *  Generate questions in a random order from the given list
 *  Recognize correct responses and increment the score accordingly 
 
 highscores.js File:
 
-The saveHighScores() was created which can
+The saveHighScores() was created which can:
 A. Save the top 10 scores to local storage in order
 B. Retrieve the top 10 scores from local storage 
 
