@@ -10,18 +10,18 @@ In order to develop this quiz, the following processes were implemented via Java
 
 Game.js File:
 
->The questions were captured in a variable
->The timer was set to 30 seconds
->The startGame() was created which can 
-* Generate questions in a random order from the given list
-* Recognize correct responses and increment the score accordingly 
+A. The questions were captured in a variable
+B. The timer was set to 30 seconds
+C. The startGame() was created which can 
+*  Generate questions in a random order from the given list
+*  Recognize correct responses and increment the score accordingly 
 
 highscores.js File:
 
 The saveHighScores() was created which can
->Save the top 10 scores to local storage in order
->Retrieve the top 10 scores from local storage 
+A. Save the top 10 scores to local storage in order
+B. Retrieve the top 10 scores from local storage 
 
 end.js File:
 
->Maps the top 10 scores in order for users to see
+A. Maps the top 10 scores in order for users to see
