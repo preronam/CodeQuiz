@@ -6,7 +6,12 @@ The following project is a Code Quiz, designed to test a beginner's understandin
  4.  At the end of the Quiz, the user has the option to save their highscore and username
  5.  Only the top 10 user scores will be displayed for others to see
 
-In order to develop this quiz, the following processes were implemented via Javascript:
+In order to develop this quiz, the following technology was used 
+1. Javascript
+2. HTML
+3. CSS
+
+The following provides an overview of the functionality of each file:
 
 Game.js File:
 1. The questions were captured in a variable
@@ -14,6 +19,8 @@ Game.js File:
 3. The startGame() was created which can: 
    A. Generate questions in a random order from the given list;
    B. Recognize correct responses and increment the score accordingly;
+   
+    * ![Quiz Page](./images/Quiz.png)
 
 Highscores.js File:
 
@@ -21,6 +28,10 @@ The saveHighScores() was created which can:
 1. Save the top 10 scores to local storage in order
 2. Retrieve the top 10 scores from local storage in order
 
+ * ![Score Page](./images/Score.png)
+
 End.js File:
 
 1. Maps the top 10 scores in order for users to see
+
+
